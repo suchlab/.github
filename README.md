@@ -1,2 +1,2 @@
 # .github
-Community files for @suchlab
+Community files for [@Suchlab](https://github.com/suchlab)
